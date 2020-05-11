@@ -28,3 +28,8 @@ nasm src/main.asm -i src/ -o bin/main.bin
 nasm src/main.asm -i src/ -o img/bootSectorSnake.img -dIMAGE
 
 ```
+
+#### Interesting resources
+* https://github.com/nanochess/fbird
+* https://nanochess.org/
+* https://www.youtube.com/watch?v=mYPzJlqQ3XI
